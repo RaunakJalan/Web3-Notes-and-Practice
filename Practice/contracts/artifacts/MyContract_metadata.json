@@ -1,0 +1,44 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Practice/contracts/My_Contract.sol": "MyContract"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Practice/contracts/My_Contract.sol": {
+			"keccak256": "0xf75d428896e83ae2822d66ce752e6ebe645bcf3a2770aa96ffe88a96c20f82c1",
+			"urls": [
+				"bzz-raw://32817c36c2499ce7322185ba28ef1029b2495eaed73a6e09e5e84d220734dd35",
+				"dweb:/ipfs/Qmd7gXVfoKrXMJb7G3PvdMw2i6YFDEdbxnv9XNMzmdtVnZ"
+			]
+		}
+	},
+	"version": 1
+}
