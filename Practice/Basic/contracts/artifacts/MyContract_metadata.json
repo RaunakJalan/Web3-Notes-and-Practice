@@ -4,7 +4,21 @@
 	},
 	"language": "Solidity",
 	"output": {
-		"abi": [],
+		"abi": [
+			{
+				"inputs": [],
+				"name": "ourString",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
 		"devdoc": {
 			"kind": "dev",
 			"methods": {},
@@ -18,7 +32,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Practice/contracts/My_Contract.sol": "MyContract"
+			"Practice/Basic/contracts/My_Contract.sol": "MyContract"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -32,11 +46,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"Practice/contracts/My_Contract.sol": {
-			"keccak256": "0xf75d428896e83ae2822d66ce752e6ebe645bcf3a2770aa96ffe88a96c20f82c1",
+		"Practice/Basic/contracts/My_Contract.sol": {
+			"keccak256": "0x46f737a6d70b192367fe0fea15a644f23c889ba4a6e2adcb09e7e7c2c1abb75f",
+			"license": "MIT",
 			"urls": [
-				"bzz-raw://32817c36c2499ce7322185ba28ef1029b2495eaed73a6e09e5e84d220734dd35",
-				"dweb:/ipfs/Qmd7gXVfoKrXMJb7G3PvdMw2i6YFDEdbxnv9XNMzmdtVnZ"
+				"bzz-raw://ba45389980e735b791cda3c33e658d977e7858dad2efe0184cf581a8ced674cd",
+				"dweb:/ipfs/QmZQ6pt8cgsFE9a8yMSPLnaCwDLkMLLYc9q1hnPZ7dMu9t"
 			]
 		}
 	},
